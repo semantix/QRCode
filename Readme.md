@@ -1,0 +1,1 @@
+This is a project to create QR Image from VCF IDs from Genetic information.
